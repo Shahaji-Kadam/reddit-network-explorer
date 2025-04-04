@@ -104,8 +104,8 @@ def main():
     print("Start fetching data from Reddit")
 
     reddit = praw.Reddit(
-        client_id="***REMOVED***",
-        client_secret="***REMOVED***",
+        client_id="LK-Qj-wBtzw_ayR6JWDtXg",
+        client_secret="lx21tmSkT-Znxa587UrR1HtUoMKmdQ",
         user_agent="graph-demo data fetcher")
 
     schedule_deletion()
